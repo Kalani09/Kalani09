@@ -3,7 +3,7 @@
 
 ## 💫 About Me:
 🪄 I’m enthusiastic about building engaging and interactive digital experiences that users can enjoy.<br><br>
-🌱 I’m currently learning Angular, Spring Boot, and Unity to broaden my full-stack and game development skills.<br><br>
+🌱 I’m currently learning React, Spring Boot, and Unity to broaden my full-stack and game development skills.<br><br>
 ⚡ I’m especially interested in game development and animation, and I love exploring how visuals and logic come together to build immersive worlds.
 
 
